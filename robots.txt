@@ -1,0 +1,8 @@
+User-agent: *
+Disallow:
+Disallow: /404.html
+Disallow: /cam-on.html
+Disallow: /tim-kiem/
+Disallow: /store-page/
+
+Sitemap: http://nguyenhuuhau.com/sitemap.xml 

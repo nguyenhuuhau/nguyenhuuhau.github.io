@@ -1,0 +1,61 @@
+[
+
+    
+        {
+            "title": "Web tĩnh với Octopress",
+            "content": "Các trang web tĩnh có hiệu suất tốt hơn rất nhiều so với các trang web động. Một điều không thể nghỉ đến và hết sức khó khăn cho bạn khi mất rất nhiều tính năng và công sức để tạo ra một hệ thống quản lý nội dung (CMS) bằng web tĩnh, nhưng mọi việc sẽ dễ dàng hơn khi bạn có một framework như Octopress.\n\n\n\n\n\n\n\n\n\nOctopress là gì?\n\n\n\n\nOctopress là một framework được thiết kế bởi Brandon Mathis cho Jekyll, blog được tạo ra dạng trang web tĩnh có thể deploy lên Github Pages. Nếu bạn đã từng sử dụng Jekyll để tạo một blog, bạn thật vất vả để xây dựng HTML của riêng bạn, CSS, JavaScript và thiết lập tất cả cấu hình của bạn. Chúng ta thích những gì tối ưu nhất, tốt nhất và nhanh gọn.\nVới Octopress tất cả điều đó đã được làm sẵn chúng ta không cần phải bỏ nhiều công sức để đi xây dựng lại. Đơn giản chỉ cần clone source về và cài đặt sử dụng.\n\n\n\n\n\n\n\n\n\nMột số tính năng\n\n\n\n\nOctopress sử dụng các Jekyll và Markdown, nhưng nó tương đối dễ dàng để thiết lập và cấu hình. Nó cũng có một loạt các bổ sung mà thêm các dịch vụ như Google Analytics, Twitter, Disqus,…. Bạn muốn bài viết sống động hơn với pullquotes và blockquotes Octopress cũng có.\n\n\n\n\nSử dụng trình duyệt trên các thiết bị di động không có vấn đề. Octopress hiện thị tốt trên tấc cả các thiết bị mà không bị lỗi giao diện.\n\n\n\n\nMột khi bạn đã thiết lập một blog Octopress, bạn có thể triển khai nó trên bất kỳ server sử dụng rsync hoặc bạn có thể sử dụng nó với GitHub Pages. Một trong những điều đặc biệt hấp dẫn về Octopress là nó có tài liệu hướng dẫn chi tiết dễ dàng để tìm và làm theo dù bạn là người mới bắt đầu nhưng vẫn hỗ trợ tốt. Tuy nhiên, bạn cần phải làm quen với git.\n\n",
+            "link": "http://nguyenhuuhau.com/web-tinh-voi-octopress",
+            "date": "2014-08-07 16:49:00 +0700",
+            "excerpt": null,
+            "image": "http://i.imgur.com/G3xZu07.jpg"
+        }
+    
+
+    
+        ,{
+            "title": "Nên chọn Blog Platform nào?",
+            "content": "Theo bạn thì nên chọn Blog Platform nào cho tối ưu nhất, hỗ trợ tốt nhất khi xây dựng một Blog hoàn hảo?\nChúng ta có rất nhiều sự lựa chọn những Blog được xây dựng trên CMS(Content management system: Hệ thống quản lý nội dung) như: Wordpress.org, Blogger, Wordpress.com,\nJoomla, TypePad, Movable Type, Drupal, LiveJournal, Expression Engine, Weebly,\nSquareSpace, Tumblr, Xanga, Windows Live Spaces, Vox, Skyrock, Open Diary, Blogge.rs, Radiant, Injader,&hellip;\n\n\n\n\nTrong các CMS kể trên thì nổi bật nhất là Blogger và Wordpress, hai Blog Platform được sử dụng rộng rãi và ưa chuộng của nhiều blogger.\n\n\n\n\n\nBlogger\n\n\n\n\n\nƯu điểm:\nHosting miễn phí và cực kỳ mạnh mẻ từ Google\nCó nhiều giao diện cho người dùng lựa chọn\nTính bảo mật cao vì thuộc sở hữu của Google\nTốc độ tải trang nhanh\nVì thuộc sở hữu của Google nên dễ dàng kết hợp với các sản phẩm và dịch vụ khác của Google\n\n\n\n\n\n\nNhược điểm:\nPhụ thuộc vào Google, phải tuân thủ các quy định của Google\nKhông upload bất cứ file nào lên host được ngoài file hình\nHỗ trợ SEO kém\n\n\n\n\n\nWordpress\n\n\n\n\n\nƯu điểm:\nCó thể tuỳ chỉnh mã nguồn theo ý muốn\nHỗ trợ SEO cực kỳ tốt\nNhiều plugin miễn phí có giá trị\nCó nhiều giao diện cho người dùng lựa chọn\n\n\n\n\n\n\nNhược điểm:\nCần phải cài đặt, tạo database ban đầu\nĐiều quan trọng là tính bảo mật chưa cao, dễ bị tấn công bởi Hacker\n\n\n\n\n\nSự so sánh những ưu nhược điểm của Blogger và Wordpress để chúng ta thấy Blog Platform sau đây\ncó gì khác biệt.\n\n\n\n\n\nOctopress\n\n\n\n\nOctopress là một framework dạng static blog, một Blog Platform tuyệt vời khi không cần đến\ndatabase mọi việc sẽ trở nên mới mẻ và thú vị hơn cho blog của bạn.\nSự chiêm nghiệm ban đầu về nó không đâu xa lạ bằng chính site http://nguyenhuuhau.com được xây dựng hoàn toàn bằng Octopress.\n\n\n\n\n\nƯu điểm:\nKhông cần bất kỳ phụ thuộc vào các dịch vụ của bên thứ ba như cơ sở dữ liệu và môi trường thực hiện.\nTốc độ tải trang nhanh đáp ứng người sử dụng và site được lưu trữ trên máy chủ cho phép truy cập web nhanh hơn.\nTính bảo mật cao vì không có database, source web hoàn toàn là các trang tĩnh\nSử dụng các tiêu chuẩn HTML5 và CSS3 mới nhất.\nSource có tính thống nhất nghĩa là không cần thay đổi nhiều hơn một tập tin cho một tuỳ chỉnh nào đó.\nBài viết được đăng bằng cách sử dụng file Markdown.\n\n\n\n\n\n\nNhược điểm:\nCần biết vài lệnh Git khi cài đặt và nếu bạn sử dụng Git làm môi trường phát triển site.\nCác Plugin của Octopress được viết bằng Ruby nếu bạn không biết Ruby vẫn không sao chỉ\ncần biết các tập lệnh Liquid là bạn có thể tuỳ chỉnh site.\n\n\n\n\n\nNếu bạn đang tìm kiếm để thay cái gì mới mẽ hơn, blog nặng của bạn trở thành nhẹ hơn, bạn nên lựa chọn Octopress để có thêm một trải nghiệm mới.\n\n",
+            "link": "http://nguyenhuuhau.com/nen-chon-blog-platform-nao",
+            "date": "2014-06-20 09:13:44 +0700",
+            "excerpt": null,
+            "image": "http://i.imgur.com/6CrwJ8J.jpg"
+        }
+    
+
+
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+]

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Blog | Nguyễn Hữu Hậu]]></title>
+  <link href="http://nguyenhuuhau.com/tu-khoa/blog/atom.xml" rel="self"/>
+  <link href="http://nguyenhuuhau.com/"/>
+  <updated>2014-10-04T15:18:14+07:00</updated>
+  <id>http://nguyenhuuhau.com/</id>
+  <author>
+    <name><![CDATA[Nguyễn Hữu Hậu]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Nên chọn Blog Platform nào?]]></title>
+    <link href="http://nguyenhuuhau.com/nen-chon-blog-platform-nao"/>
+    <updated>2014-06-20T09:13:44+07:00</updated>
+    <id>http://nguyenhuuhau.com/nen-chon-blog-platform-nao</id>
+    <content type="html"><![CDATA[<p>Theo bạn thì nên chọn Blog Platform nào cho tối ưu nhất, hỗ trợ tốt nhất khi xây dựng một Blog hoàn hảo?
+Chúng ta có rất nhiều sự lựa chọn những Blog được xây dựng trên CMS(Content management system: Hệ thống quản lý nội dung) như: Wordpress.org, Blogger, Wordpress.com,
+Joomla, TypePad, Movable Type, Drupal, LiveJournal, Expression Engine, Weebly,
+SquareSpace, Tumblr, Xanga, Windows Live Spaces, Vox, Skyrock, Open Diary, Blogge.rs, Radiant, Injader,&hellip;</p>
+
+<p>Trong các CMS kể trên thì nổi bật nhất là Blogger và Wordpress, hai Blog Platform được sử dụng rộng rãi và ưa chuộng của nhiều blogger.
+<img src="" title="Blog" alt="Blog.jpg" ></p>
+
+<h2>Blogger</h2>
+
+
+<ul>
+<strong>Ưu điểm:</strong>
+<li>Hosting miễn phí và cực kỳ mạnh mẻ từ Google</li>
+<li>Có nhiều giao diện cho người dùng lựa chọn</li>
+<li>Tính bảo mật cao vì thuộc sở hữu của Google</li>
+<li>Tốc độ tải trang nhanh</li>
+<li>Vì thuộc sở hữu của Google nên dễ dàng kết hợp với các sản phẩm và dịch vụ khác của Google</li>
+</ul>
+
+
+<ul>
+<strong>Nhược điểm:</strong>
+<li>Phụ thuộc vào Google, phải tuân thủ các quy định của Google</li>
+<li>Không upload bất cứ file nào lên host được ngoài file hình</li>
+<li>Hỗ trợ SEO kém</li>
+</ul>
+
+
+
+
+<h2>Wordpress</h2>
+
+
+<ul>
+<strong>Ưu điểm:</strong>
+<li>Có thể tuỳ chỉnh mã nguồn theo ý muốn</li>
+<li>Hỗ trợ SEO cực kỳ tốt</li>
+<li>Nhiều plugin miễn phí có giá trị</li>
+<li>Có nhiều giao diện cho người dùng lựa chọn</li>
+</ul>
+
+
+<ul>
+<strong>Nhược điểm:</strong>
+<li>Cần phải cài đặt, tạo database ban đầu</li>
+<li>Điều quan trọng là tính bảo mật chưa cao, dễ bị tấn công bởi Hacker</li>
+</ul>
+
+
+<p>Sự so sánh những ưu nhược điểm của Blogger và Wordpress để chúng ta thấy Blog Platform sau đây
+có gì khác biệt.
+<img src="" title="Blog" alt="Blog.jpg" ></p>
+
+<h2>Octopress</h2>
+
+
+<p>Octopress là một framework dạng static blog, một Blog Platform tuyệt vời khi không cần đến
+database mọi việc sẽ trở nên mới mẻ và thú vị hơn cho blog của bạn.
+Sự chiêm nghiệm ban đầu về nó không đâu xa lạ bằng chính site <a href="http://nguyenhuuhau.com"><a href="http://nguyenhuuhau.com">http://nguyenhuuhau.com</a></a> được xây dựng hoàn toàn bằng Octopress.</p>
+
+<ul>
+<strong>Ưu điểm:</strong>
+<li>Không cần bất kỳ phụ thuộc vào các dịch vụ của bên thứ ba như cơ sở dữ liệu và môi trường thực hiện.</li>
+<li>Tốc độ tải trang nhanh đáp ứng người sử dụng và site được lưu trữ trên máy chủ cho phép truy cập web nhanh hơn.</li>
+<li>Tính bảo mật cao vì không có database, source web hoàn toàn là các trang tĩnh</li>
+<li>Sử dụng các tiêu chuẩn HTML5 và CSS3 mới nhất.</li>
+<li>Source có tính thống nhất nghĩa là không cần thay đổi nhiều hơn một tập tin cho một tuỳ chỉnh nào đó.</li>
+<li>Bài viết được đăng bằng cách sử dụng file Markdown.</li>
+</ul>
+
+
+<ul>
+<strong>Nhược điểm:</strong>
+<li>Cần biết vài lệnh Git khi cài đặt và nếu bạn sử dụng Git làm môi trường phát triển site.</li>
+<li>Các Plugin của Octopress được viết bằng Ruby nếu bạn không biết Ruby vẫn không sao chỉ
+cần biết các tập lệnh Liquid là bạn có thể tuỳ chỉnh site.</li>
+</ul>
+
+
+<p>Nếu bạn đang tìm kiếm để thay cái gì mới mẽ hơn, blog nặng của bạn trở thành nhẹ hơn, bạn nên lựa chọn Octopress để có thêm một trải nghiệm mới.</p>
+]]></content>
+  </entry>
+  
+</feed>
