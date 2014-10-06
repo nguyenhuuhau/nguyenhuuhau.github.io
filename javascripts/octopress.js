@@ -115,6 +115,7 @@ $('document').ready(function() {
   flashVideoFallback();
   addCodeLineNumbers();
   getNav();
+    $('.mobile-nav option:nth-of-type(2)').html("» Trang chủ")
   //addSidebarToggler();
 });
 
