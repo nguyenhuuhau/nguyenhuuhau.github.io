@@ -129,4 +129,10 @@ $(document).ready(function(){
             $('.articles-center article').css('height',max);
         });
     });
+
+    $(function(){
+        $("img").error(function () {
+            $(this).unbind("error").attr("src", "http://i.imgur.com/HJmGi4V.jpg");
+        });
+    });
 })
